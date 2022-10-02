@@ -13,8 +13,7 @@ it basically renders each led in order faster than the human eye can see, based 
 
 ![angle 2](lowered_top_view.jpg "angle 2")
 
-spare me for this crappy schematic, i made it after i finished the project lol i learned my lesson.
+spare me for this crappy schematic, i made it after i finished the project (+ i didnt research how to make schematics) lol i learned my lesson.
 
 ![schematic](schematic.jpg "schematic")
 
-for those also young: if a 14yo kid can make something like this, you can obviously make bigger- make better. dont feel demotivated, it took a long time to get to where i am, its not a trivial process.
